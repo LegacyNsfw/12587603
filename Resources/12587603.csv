@@ -4795,4 +4795,3 @@ VEH_SPEED,KE_VEHICLE_OVERSPEED_HYSTERESIS,0001FEEA,c,MPH,Hysteresis applied to v
 VEH_SPEED,KE_C2_VEH_SPEED_DEFAULT_ENABLED,0001FEEC,c,BOOLEAN,Enable setting vehicle speed to a valid class 2 wheel speedwhen a fault in the vehicle speed group is active
 VEH_SPEED,KE_VEH_SPEED_FILTER,0001FEEE,c,Seconds,Vehicle speed filter coefficient used in the first order lag filter applied to the raw vehicle speed value.
 VEH_SPEED,KE_LOW_AXLE_SPEED_ADJUST,0001FEF0,c,Multiplier_0_to_2,Vehicle speed multiplier when Dual_Axle is Low. Note: Range from (0.1228 .. < 2.0)!
-,,20030708,h,32M,
