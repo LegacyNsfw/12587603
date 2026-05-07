@@ -12,11 +12,11 @@ When Ghidra has CPU32 support (especially the table-lookup opcodes) I intend to 
 
 # Why?
 
-To pave the way to fun stuff like 2-step rev limiteres, flat-foot shifting, forced induction, rev-matched downshifting, and whatever else people dream up.
+To pave the way to fun stuff like 2-step rev limiters, flat-foot shifting, forced induction, rev-matched downshifting, and whatever else people dream up.
 
 # Why 12587603?
 
-Initially, because this is a "universal donor" P59 / 1mb operating system. It is available in every combination of transmission type and throttle type, so it should be usable in any GM vehicle or swap.
+Initially, because this is a "universal donor" P59 / 1mb operating system. It is available in every combination of transmission type and for cable or electronic throttle, so it should be usable in any GM vehicle or swap (note that for drive-by-wire you need the early-style accelerator pedal, TAC, and throttle body).
 
 More recently, because an anonymous hero sent a table of ROM addresses and labels for what appears to be everything in the calibration segment. This should speed things up quite a bit.
 
